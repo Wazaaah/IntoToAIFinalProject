@@ -281,7 +281,7 @@ def input_form():
 
     col1, col2, col3 = st.columns(3)
     with col1:
-        Family_Income = st.number_input('Family Income', min_value=0.0, max_value=7500.0, step=500.0,
+        Family_Income = st.number_input('Family Income', min_value=0.0, max_value=75000.0, step=500.0,
                                         help="Enter your family income.")
 
     submit_button = st.form_submit_button(label='Predict GPA')
