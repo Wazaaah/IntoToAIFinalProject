@@ -91,3 +91,6 @@ You can deploy the application to a cloud platform like Streamlit Cloud or Herok
 ## How the Application Works
 
 A YouTube video demonstrating how the application works can be found [here](https://youtu.be/bE2KdDgkAvY).
+
+## Link to the Streamlit Application
+The link to the streamlit app can be found [here](https://mcpeggs-gpa-prediction-app-with-ai-generated-analysis.streamlit.app/).
