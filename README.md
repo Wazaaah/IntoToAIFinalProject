@@ -90,4 +90,4 @@ You can deploy the application to a cloud platform like Streamlit Cloud or Herok
 
 ## How the Application Works
 
-A YouTube video demonstrating how the application works can be found [here](https://www.youtube.com/watch?v=your_video_link).
+A YouTube video demonstrating how the application works can be found [here](https://youtu.be/bE2KdDgkAvY).
